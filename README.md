@@ -20,7 +20,6 @@ I build things end to end: the data pipeline, the analysis, and the product peop
 Python (pandas, NumPy, Matplotlib, Streamlit, pytest) · SQL · JavaScript · LLM agents and prompt design ·
 data pipelines and web scraping · financial and statistical analysis
 
-<!-- To add contact links, replace this comment with:
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/YOUR-NAME) · your.email@example.com
--->
+
+[LinkedIn](https://www.linkedin.com/in/putribintang2305/) · [putribintang2305@gmail.com](mailto:putribintang2305@gmail.com)
